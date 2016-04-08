@@ -36,9 +36,9 @@
 }
 #u2 {
   position:absolute;
-  left:123px;
-  top:24px;
-  width:128px;
+  left:108px;
+  top:18px;
+  width:158px;
   height:18px;
   font-size:16px;
 }
@@ -46,20 +46,20 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:128px;
+  width:158px;
   height:18px;
 }
 #u3 {
   position:absolute;
   left:0px;
   top:0px;
-  width:128px;
+  width:158px;
   white-space:nowrap;
 }
 #u4 {
   position:absolute;
   left:314px;
-  top:13px;
+  top:6px;
   width:40px;
   height:40px;
 }
@@ -85,7 +85,7 @@
 #u6 {
   position:absolute;
   left:20px;
-  top:13px;
+  top:6px;
   width:40px;
   height:40px;
 }
@@ -648,7 +648,19 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u4.a {
 }
+#u4_img.a {
+}
+#u4_img.a.mouseOver {
+}
+#u5.a {
+}
 #u6.a {
+}
+#u6_img.a {
+}
+#u6_img.a.mouseOver {
+}
+#u7.a {
 }
 #u8.a {
 }

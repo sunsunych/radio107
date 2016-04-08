@@ -37,7 +37,7 @@
 #u2 {
   position:absolute;
   left:314px;
-  top:13px;
+  top:6px;
   width:40px;
   height:40px;
 }
@@ -63,7 +63,7 @@
 #u4 {
   position:absolute;
   left:20px;
-  top:13px;
+  top:6px;
   width:40px;
   height:40px;
 }
@@ -653,7 +653,7 @@
 #u43 {
   position:absolute;
   left:143px;
-  top:24px;
+  top:18px;
   width:88px;
   height:18px;
   font-size:16px;
@@ -685,7 +685,19 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u2.a {
 }
+#u2_img.a {
+}
+#u2_img.a.mouseOver {
+}
+#u3.a {
+}
 #u4.a {
+}
+#u4_img.a {
+}
+#u4_img.a.mouseOver {
+}
+#u5.a {
 }
 #u6.a {
 }
