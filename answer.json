@@ -1,0 +1,28 @@
+{
+  "music": [
+    {
+      "artist": "The Beatles",
+      "songname": "Come Together",
+      "cover": "http://i.imgur.com/m6HXdXe.jpg",
+      "cover_bg": "http://i.imgur.com/jdITpeV.png",
+    },
+    {
+      "artist": "Depeche Mode",
+      "songname": "Welcome To My World",
+      "cover": "http://i.imgur.com/gPMvaux.jpg",
+      "cover_bg": "http://i.imgur.com/mbRVfJA.png",
+    },
+    {
+      "artist": "Yeah Yeah Yeahs",
+      "songname": "Faces",
+      "cover": "http://i.imgur.com/m1vaz5j.jpg",
+      "cover_bg": "http://i.imgur.com/CfEKkcL.jpg",
+    },
+    {
+      "artist": "Green Day",
+      "songname": "Wake Me Up When September Ends",
+      "cover": "http://i.imgur.com/6En9jqH.jpg",
+      "cover_bg": "http://i.imgur.com/ZdU5f9V.jpg",
+    }
+  ]
+}
